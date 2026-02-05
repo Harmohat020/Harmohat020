@@ -54,10 +54,6 @@ const harmohat = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harmohat020&theme=darkhub&no-frame=true&column=7&title_color=FF9C33" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Harmohat020/Harmohat020/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
