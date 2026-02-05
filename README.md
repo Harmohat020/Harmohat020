@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FF9C33&center=true&vCenter=true&width=435&lines=%7B+Harmohat+Khangura+%7D;Software+Engineer;Backend+Developer" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harmohat020&color=FF9C33&style=flat-square" alt="Profile views" />
-</p>
-
 ```javascript
 const harmohat = {
     location: "Amsterdam, NL 🇳🇱",
