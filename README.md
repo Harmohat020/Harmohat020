@@ -6,8 +6,8 @@
 const harmohat = {
     location: "Amsterdam, NL 🇳🇱",
     degree: "BSc Software Engineering @ HvA",
-    minors: ["Applied Artificial Intelligence", "Mobile Development & Design"],
-    focus: "Building scalable backend systems"
+    specialties: ["Backend Architecture", "Cloud-Native Systems", "AI Integration"],
+    current_mission: "Building high-impact scalable solutions"
 };
 ```
 
